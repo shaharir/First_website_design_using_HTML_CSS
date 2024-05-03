@@ -1,0 +1,300 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner{
+    background-color:#fae4fa
+
+}
+
+.navbar{
+   
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+}
+.nav1{
+    
+    margin-left: 30px;
+}
+
+.nav2 ul{
+    display: flex;
+    justify-content: space-between; 
+    
+}
+.nav2 ul li{
+    padding-right: 30px;
+    list-style: none;
+
+    
+}
+.nav2 ul li a{
+    text-decoration: none;
+    
+}
+.text1{
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+.text2{
+    margin-top: 10px;
+    font-size: 12px;
+    text-align: center;
+}
+.text3{
+padding: 50px;
+text-align: center;
+}
+.btn1{
+    padding: 15px;
+background-color:#fd8d05;
+border-radius: 10px;
+color: white;
+border-style: none;
+}
+.pic img{
+    width:800px;
+    height:500px;
+
+margin-left: 220px;
+margin-bottom: 30px;
+}
+.navbar2{
+    margin-top: 50px;
+    display: flex;
+    justify-content:space-evenly ;
+
+}
+.text4{
+    margin-top: 100px;
+    font-size: 30px;
+}
+.nav3 img{
+    height: 250px;
+}
+.text5{
+    margin-top: 30px;
+}
+.ex{
+    padding: 50px 50px 50px 0px;
+    
+}
+.btn2
+{
+padding: 15px;
+background-color:#fd8d05;
+border-radius: 10px;
+border-style: none;
+cursor: pointer;
+}
+.text6{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.h{
+    font-size: 40px;
+    font-weight: 700;
+}
+.h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+.text7{
+    margin-left: 50px;
+margin-top: 20px;
+border: groove;
+border-color: whitesmoke;
+}
+.navbar3{
+    display: flex;
+    justify-content: space-between;
+}
+.pic1 img{
+margin-top: 50px;
+height: 550px;
+width: 500px;
+
+}
+.h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.text8{
+    margin-left: 50px;
+margin-top: 20px;
+border: groove;
+border-color: whitesmoke;
+}
+.h5{
+    font-size: 20px;
+    font-weight: 600;
+}
+.text9{
+    margin-left: 50px;
+margin-top: 20px;
+border: groove;
+border-color: whitesmoke;
+}
+.h6{
+    font-size: 20px;
+    font-weight: 600;
+}
+.text10{
+    margin-left: 50px;
+margin-top: 20px;
+border: groove;
+border-color: whitesmoke;
+}
+.ex1{
+    width: 30%;
+    padding:1.5% 8% 1.5% 7%;
+    background-color: #F99417;
+    color: white;
+    position:relative;
+    bottom: 6vw;
+    border-radius: 8px;
+}
+
+.ex1 span{
+    font-size: 3vw;
+    color: white;
+    font-weight: 700;
+    font-family: 'Segoe UI';
+}
+
+.ex1 p{
+    font-size: 1.5vw;
+    text-align: center;
+}
+.text11{
+    margin-left: 50px; 
+    margin-bottom: 50px;
+}
+.text11 .h7
+{
+
+    font-size: 20px;
+font-weight: 600;
+}
+.award{
+    border:1px solid  #F99417;
+    width: 12%;
+    height: 12%;
+    text-align: center;
+    padding: 1% 0 1% 0;
+    border-radius: 8px;
+    margin: 3%;
+}
+.award img{
+    width: 18%;
+    height: 18%;
+}
+.award h1{
+    font-size: 15px;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.award span{
+    font-size: 15px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+    font-weight: 700;
+}
+
+.projects{
+    border:1px solid  #F99417;
+    width: 12%;
+    height: 12%;
+    text-align: center;
+    padding: 1% 0 1% 0;
+    border-radius: 8px;
+    margin: 3%;
+}
+.projects img{
+    width: 18%;
+    height: 18%;
+}
+.projects h1{
+    font-size: 15px;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.projects span{
+    font-size: 15px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+    font-weight: 700;
+}
+
+.customers{
+    border:1px solid  #F99417;
+    width: 12%;
+    height: 12%;
+    text-align: center;
+    padding: 1% 0 1% 0;
+    border-radius: 8px;
+    margin: 3%;
+}
+.customers img{
+    width: 18%;
+    height: 18%;
+}
+.customers h1{
+    font-size: 15px;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.customers span{
+    font-size: 15px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+    font-weight: 700;
+}
+
+.email{
+    border:1px solid  #F99417;
+    width: 12%;
+    height: 12%;
+    text-align: center;
+    padding: 1% 0 1% 0;
+    border-radius: 8px;
+    margin: 3%;
+}
+.email img{
+    width: 18%;
+    height: 18%;
+}
+.email h1{
+    font-size: 15px;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.email span{
+    font-size: 15px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+    font-weight: 700;
+}
+
+.section{
+    display: flex;
+    
+    margin-top:30px;
+    justify-content: center;
+}
+.Sponspors{
+    font-size: 11px;
+    color: rgb(112, 107, 107);
+    justify-content: center;
+    text-align: center;
+}
+.sp{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 200px;
+}
+
